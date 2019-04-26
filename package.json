@@ -1,6 +1,6 @@
 {
   "name": "pretty-date",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "A simple ultra lightweight VanillaJS Webcomponent to display timestamps as pretty dates according to browser locale",
   "main": "pretty-date.js",
   "dependencies": {
