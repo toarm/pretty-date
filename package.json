@@ -1,0 +1,24 @@
+{
+  "name": "pretty-date",
+  "version": "0.9.0",
+  "description": "A simple ultra lightweight VanillaJS Webcomponent to display timestamps as pretty dates according to browser locale",
+  "main": "pretty-date.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toarm/pretty-date.git"
+  },
+  "keywords": [
+    "date",
+    "pretty",
+    "webcomponent"
+  ],
+  "author": "Tobias Armbruster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toarm/pretty-date/issues"
+  },
+  "homepage": "https://github.com/toarm/pretty-date#readme"
+}
